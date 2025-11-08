@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taximètre</string>
+
+    <!-- Main Screen -->
+    <string name="welcome_title">TAXIMÈTRE</string>
+    <string name="welcome_description">Votre solution de compteur de taxi intelligente</string>
+    <string name="btn_start">S\'inscrire</string>
+
+    <!-- Meter Screen -->
+    <string name="total">TOTAL</string>
+    <string name="time">Temps</string>
+    <string name="distance">Distance</string>
+    <string name="minutes">min</string>
+    <string name="kilometers">km</string>
+    <string name="start_trip">DÉMARRER</string>
+    <string name="stop_trip">ARRÊTER</string>
+    <string name="reset">RÉINITIALISER</string>
+
+    <!-- Profile Screen -->
+    <string name="driver_profile">PROFIL DU CHAUFFEUR</string>
+    <string name="license_type">Type de Permis</string>
+    <string name="license_number">Numéro de Permis</string>
+    <string name="phone">Téléphone</string>
+    <string name="vehicle">Véhicule</string>
+    <string name="qr_code_title">QR CODE</string>
+    <string name="qr_code_description">Scannez pour les informations du chauffeur</string>
+    <string name="btn_modify">MODIFIER</string>
+
+    <!-- Map Screen -->
+    <string name="my_location">Ma Position</string>
+
+    <!-- Permissions -->
+    <string name="permission_location_rationale">Cette application nécessite l\'accès à votre position pour fonctionner.</string>
+    <string name="permission_denied">Permission refusée</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Notifications Taximètre</string>
+    <string name="notification_channel_description">Notifications pour les courses de taxi</string>
+    <string name="notification_trip_end_title">Course terminée</string>
+    <string name="notification_trip_end_text">Tarif total: %1$s DH</string>
+    <string name="notification_trip_running">Course en cours</string>
+
+    <!-- Toast Messages -->
+    <string name="trip_started">Course démarrée</string>
+    <string name="trip_ended">Course terminée - %1$s DH</string>
+    <string name="location_error">Erreur d\'accès à la localisation</string>
+    <string name="location_tracking_error">Erreur lors du suivi de la position</string>
+</resources>

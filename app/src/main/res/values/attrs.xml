@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom attributes for SevenSegmentView -->
+    <declare-styleable name="SevenSegmentView">
+        <attr name="segmentOnColor" format="color" />
+        <attr name="segmentOffColor" format="color" />
+        <attr name="segmentValue" format="string" />
+        <attr name="segmentThickness" format="dimension" />
+    </declare-styleable>
+</resources>

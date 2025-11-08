@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عداد الأجرة</string>
+
+    <!-- Main Screen -->
+    <string name="welcome_title">عداد الأجرة</string>
+    <string name="welcome_description">حل عداد الأجرة الذكي الخاص بك</string>
+    <string name="btn_start">ابدأ</string>
+
+    <!-- Meter Screen -->
+    <string name="total">المجموع</string>
+    <string name="time">الوقت</string>
+    <string name="distance">المسافة</string>
+    <string name="minutes">دقيقة</string>
+    <string name="kilometers">كم</string>
+    <string name="start_trip">ابدأ</string>
+    <string name="stop_trip">توقف</string>
+    <string name="reset">إعادة تعيين</string>
+
+    <!-- Profile Screen -->
+    <string name="driver_profile">ملف السائق</string>
+    <string name="license_type">نوع الرخصة</string>
+    <string name="license_number">رقم الرخصة</string>
+    <string name="phone">الهاتف</string>
+    <string name="vehicle">السيارة</string>
+    <string name="qr_code_title">رمز الاستجابة السريعة</string>
+    <string name="qr_code_description">امسح للحصول على معلومات السائق</string>
+    <string name="btn_modify">تعديل</string>
+
+    <!-- Map Screen -->
+    <string name="my_location">موقعي</string>
+
+    <!-- Permissions -->
+    <string name="permission_location_rationale">يحتاج هذا التطبيق إلى الوصول إلى الموقع للعمل بشكل صحيح.</string>
+    <string name="permission_denied">تم رفض الإذن</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">إشعارات عداد الأجرة</string>
+    <string name="notification_channel_description">إشعارات لرحلات الأجرة</string>
+    <string name="notification_trip_end_title">انتهت الرحلة</string>
+    <string name="notification_trip_end_text">الأجرة الإجمالية: %1$s درهم</string>
+    <string name="notification_trip_running">الرحلة جارية</string>
+
+    <!-- Toast Messages -->
+    <string name="trip_started">بدأت الرحلة</string>
+    <string name="trip_ended">انتهت الرحلة - %1$s درهم</string>
+    <string name="location_error">خطأ في الوصول إلى الموقع</string>
+    <string name="location_tracking_error">خطأ في تتبع الموقع</string>
+</resources>

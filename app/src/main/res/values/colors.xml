@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Main Colors -->
+    <color name="taxi_yellow">#FFD700</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#007BFF</color>
+    <color name="green">#28A745</color>
+    <color name="light_blue">#E0F7FF</color>
+    <color name="dark_gray">#343A40</color>
+
+    <!-- Additional Colors -->
+    <color name="meter_bg">#1A1A1A</color>
+    <color name="segment_red">#FF0033</color>
+    <color name="segment_off">#330000</color>
+    <color name="bg_dark">#0D0D0D</color>
+    <color name="border_gray">#333333</color>
+
+    <!-- Status Bar -->
+    <color name="colorPrimary">#FFD700</color>
+    <color name="colorPrimaryDark">#FFC700</color>
+    <color name="colorAccent">#FFD700</color>
 </resources>
